@@ -1,0 +1,87 @@
+.btn-outline-success {
+    color: #D33918;;
+    border-color: #D33918;;
+}
+
+.btn-outline-success:hover {
+    background-color: #D33918;
+    color: white;
+    border-color: #D33918;
+
+}
+
+
+
+.carousel-control-next-icon {
+    background-color: #D33918;
+}
+
+.carousel-control-next-icon:hover {
+    background-color:#D33918;
+}
+
+.carousel-control-prev-icon {
+    background-color: #D33918;
+}
+
+.carousel-control-prev-icon:hover {
+    background-color: #D33918;
+}
+
+.carousel-indicators .active {
+    background-color: #D33918;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #D33918;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.first-line {
+    border-bottom: 1px solid #392d23;
+}
+
+.second-line a {
+    color: white;
+    text-decoration: none;
+}
+
+@media screen and (max-width:48rem) {
+    .first-line {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:48rem) {
+    .second-line {
+        padding-left: 2rem;
+        padding-right: 2rem;
+        border-bottom: 1px solid #392d23;
+    }
+}
+
+.third-line {
+    display: none;
+}
+
+@media screen and (max-width:48rem) {
+    .third-line {
+        display: block;
+    }
+}
+
+@media screen and (max-width:48rem) {
+    .australia {
+        display: none;
+    }
+}
+
+
+
+
+
+
